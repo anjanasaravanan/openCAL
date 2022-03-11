@@ -15,5 +15,8 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Background
+   Mechanical Design
+   Mechatronics
+   Software
+   Chemistry & Post-Processing
