@@ -15,8 +15,8 @@ Contents
 
 .. toctree::
 
-   Background
-   Mechanical Design
-   Mechatronics
-   Software
-   Chemistry & Post-Processing
+   background
+   mechanical
+   mechatronics
+   software
+   chemical
