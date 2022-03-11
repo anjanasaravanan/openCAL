@@ -1,2 +1,2 @@
-Mechanical 
+Mechanical Design & Manufacturing
 ====
