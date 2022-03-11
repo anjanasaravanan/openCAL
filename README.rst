@@ -1,6 +1,6 @@
 OpenCAL documentation
 =======================================
 
-Read the tutorial here:
+Read the docs here:
 
-https://docs.readthedocs.io/en/stable/opencal/
+https://opencal.readthedocs.io/en/latest/
