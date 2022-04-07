@@ -1,5 +1,5 @@
 Welcome to OpenCAL's documentation!
-===================================
+==================================
 
 **OpenCAL** is an open-source Computed Axial Lithography printer. 
 
