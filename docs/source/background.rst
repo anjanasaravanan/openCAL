@@ -14,4 +14,4 @@ CAL has great potential to be used for bioprinting due to its speed and material
 
 Why open-source?
 ################
-OpenCAL is intended to serve VAM enthusiasts and institutions alike. We hope that our design will be used as a template which can be tweaked to meet the needs and experimental aims of various end users. 
+OpenCAL is intended to serve VAM enthusiasts and institutions alike. We hope that our design will be used as a template which can be tweaked to meet the experimental aims of various end users. 
