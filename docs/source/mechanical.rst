@@ -1,9 +1,6 @@
 Mechanical Design & Manufacturing
 ====
 
-Contents
---------
-
 Projector
 #########
 
