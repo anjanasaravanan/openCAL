@@ -8,3 +8,10 @@ Computed Axial Lithography (CAL) is a novel method of three dimensional additive
 
 CAL was developed by a collaboration between UC Berkeley and the Lawrence Livermore National Laboratory.
 
+Applications
+############
+CAL has great potential to be used for bioprinting due to its speed and material versatility. One of the materials we use is GelMA, or gelatin methacrylate, mixed with a photoinitiator; this is a biocompatible hydrogel with fast printing times and highly tunable material properties.
+
+Open-Source
+############
+OpenCAL is intended to serve volumetric additive manufacturing (VAM) enthusiasts and institutions alike. We hope that our design will be used as a template which can be tweaked to meet the needs of different users and their experimental aims. 
