@@ -4,11 +4,14 @@ Mechanical Design & Manufacturing
 Contents
 --------
 
-.. toctree::
+Projector
+#########
 
-   projector
-   frame
-   optics
-   rotation stage
-   index-matching fluid box
-   
+Frame
+#####
+
+Optics
+######
+
+Rotation Stage
+##############
