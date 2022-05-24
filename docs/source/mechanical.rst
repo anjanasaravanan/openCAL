@@ -24,7 +24,9 @@ Optics
     :height: 300px
     :alt: Edmund Optics Lens #45-247
     
-Our system uses two `Edmund Optics lenses <https://www.edmundoptics.com/p/500mm-dia-x-1250mm-fl-uncoated-plano-convex-lens/5729/>`_ which are **50mm** in diameter with focal lengths of **125mm**. They are uncoated and plano-convex. According to `Knight Optical <https://www.knightoptical.com/news/the-value-of-condenser-lenses-in-projection-systems/>`_, placing two plano-convex lenses such that they both face convex-in creates a *condenser*. By placing the projector at the lens focal length, we will be able to collimate the light with the first lens and then recreate the image at our desired location with the second in the series. 
+Our system uses two `Edmund Optics lenses <https://www.edmundoptics.com/p/500mm-dia-x-1250mm-fl-uncoated-plano-convex-lens/5729/>`_ which are **50mm** in diameter with focal lengths of **125mm**. They are uncoated and plano-convex. According to `Knight Optical <https://www.knightoptical.com/news/the-value-of-condenser-lenses-in-projection-systems/>`_, placing two plano-convex lenses such that they both face convex-in creates a *condenser*. By placing the projector at the lens focal length, we will be able to collimate the light with the first lens and then recreate the image at our desired location with the second in the series.
+
+                    **Cost: $46.50 x 2 = $93.00**
 
 Rotation Stage
 ##############
