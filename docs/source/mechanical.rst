@@ -19,12 +19,11 @@ Frame
 Optics
 ######
 .. image:: images/lens.jpg
-    :width: 300px
+    :width: 250px
     :align: center
-    :height: 250px
+    :height: 200px
     :alt: Edmund Optics Lens #45-247
     
-:raw-html:`<br />`    
     
 Our system uses two `Edmund Optics lenses <https://www.edmundoptics.com/p/500mm-dia-x-1250mm-fl-uncoated-plano-convex-lens/5729/>`_ which are **50mm** in diameter with focal lengths of **125mm**. They are uncoated and plano-convex. According to `Knight Optical <https://www.knightoptical.com/news/the-value-of-condenser-lenses-in-projection-systems/>`_, placing two plano-convex lenses such that they both face convex-in creates a *condenser*. By placing the projector at the lens focal length, we are able to collimate the light with the first lens and then recreate the image at our desired location with the second in the series. The back focal length of these lenses is **118.39mm**, which closely matches our projector's lens working distance of **114mm**.
 
