@@ -18,6 +18,13 @@ Frame
 
 Optics
 ######
+.. image:: images/lens.jpg
+    :width: 300px
+    :align: center
+    :height: 300px
+    :alt: Edmund Optics Lens #45-247
+    
+Our system uses two `50mm diameter, 125mm focal length, uncoated, plano-convex Edmund Optics lenses <https://www.edmundoptics.com/p/500mm-dia-x-1250mm-fl-uncoated-plano-convex-lens/5729/>`_.
 
 Rotation Stage
 ##############
