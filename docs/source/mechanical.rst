@@ -15,6 +15,7 @@ We use the `Wintech PRO1470 Projector <https://www.wintechdigital.com/PRO4710>`_
 
 Frame
 #####
+The frame is constructed out of 80/20 extrusion T-slot structural framing and held together with T-nuts, joining plates and brackets.
 
 Optics
 ######
@@ -31,3 +32,4 @@ Our system uses two `Edmund Optics lenses <https://www.edmundoptics.com/p/500mm-
 
 Rotation Stage
 ##############
+The rotation stage is a 3D-printed assembly which attaches to the vial holder to rotate the photopolymer-filled vial during the printing process.
