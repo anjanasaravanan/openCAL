@@ -11,7 +11,7 @@ Projector
     
 We use the `Wintech PRO1470 Projector <https://www.wintechdigital.com/PRO4710>`_ with an LED wavelength of **405nm** and a lens working distance of **114mm**.
 
-**..................Cost: $1799.00**
+**          Cost: $1799.00**
 
 Frame
 #####
