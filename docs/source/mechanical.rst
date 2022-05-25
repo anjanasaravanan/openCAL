@@ -15,7 +15,7 @@ We use the `Wintech PRO1470 Projector <https://www.wintechdigital.com/PRO4710>`_
 
 Frame
 #####
-The frame is constructed out of 80/20 extrusion T-slot structural framing and held together with T-nuts, joining plates and brackets.
+The frame is constructed out of 80/20 aluminum extrusion (20mm T-slot structural framing) and held together with T-nuts, joining plates and brackets. This is a cheap option which also lends itself well to adjustability.
 
 Optics
 ######
