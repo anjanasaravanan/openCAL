@@ -34,11 +34,11 @@ Rotation Stage
 ##############
 The rotation stage is a 3D-printed assembly which incorporates a gear train, linear stage, and vial holder. This is how the vial is held and rotated during the printing process, with built-in fine lateral adjustment for alignment purposes.
 
-Linear Stage
-************
+    Linear Stage
+****************
+
+    This 3-D printed piece makes use of a dovetail joint plus a nut, bolt, and spring to make small adjustments to vial alignment rather than sliding the entire vertical extrusion back and forth.
     
-This 3-D printed piece makes use of a dovetail joint plus a nut, bolt, and spring to make small adjustments to vial alignment rather than sliding the entire vertical extrusion back and forth.
-    
-Vial Holder
-***********
-The vial holder extends continuously downwards from the secondary gear and uses crush ribs to ensure a secure press-fit.
+    Vial Holder
+***************
+    The vial holder extends continuously downwards from the secondary gear and uses crush ribs to ensure a secure press-fit.
