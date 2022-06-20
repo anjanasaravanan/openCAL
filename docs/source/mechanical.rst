@@ -29,6 +29,13 @@ Optics
 Our system uses two `Edmund Optics lenses <https://www.edmundoptics.com/p/500mm-dia-x-1250mm-fl-uncoated-plano-convex-lens/5729/>`_ which are **50mm** in diameter with focal lengths of **125mm**. They are uncoated and plano-convex. According to `Knight Optical <https://www.knightoptical.com/news/the-value-of-condenser-lenses-in-projection-systems/>`_, placing two plano-convex lenses such that they both face convex-in creates a *condenser*. By placing the projector at the lens focal length, we are able to collimate the light with the first lens and then recreate the image at our desired location with the second in the series. The back focal length of these lenses is **118.39mm**, which closely matches our projector's lens working distance of **114mm**.
 
                     **Cost: $46.50 x 2 = $93.00**
+                    
+Lens Mounts
+###########
+
+To attach the lenses to our frame, we selected corresponding `mounts<https://www.edmundoptics.com/p/95mm-outer-diameter-three-screw-adjustable-ring-mount/4203/>`_. These will attach onto the frame with a 1/4''-20 post.
+
+                    **Cost: $68.50 x 2 = $137.00**
 
 Rotation Stage
 ##############
