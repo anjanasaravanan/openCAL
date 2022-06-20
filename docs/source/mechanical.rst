@@ -33,7 +33,13 @@ Our system uses two `Edmund Optics lenses <https://www.edmundoptics.com/p/500mm-
 Lens Mounts
 ###########
 
-To attach the lenses to our frame, we selected corresponding `mounts <https://www.edmundoptics.com/p/95mm-outer-diameter-three-screw-adjustable-ring-mount/4203/>`_. These will attach onto the frame with a 1/4''-20 post.
+.. image:: images/lens-mount.jpg
+    :width: 250px
+    :align: center
+    :height: 200px
+    :alt: Edmund Optics Three-Screw Adjustable Ring Mount, #36-605 
+
+To attach the lenses to our frame, we selected corresponding `mounts <https://www.edmundoptics.com/p/95mm-outer-diameter-three-screw-adjustable-ring-mount/4203/>`_. These will attach onto the frame with a 1/4''-20 post. They offer 2-axis adjustment via three screws.
 
                     **Cost: $68.50 x 2 = $137.00**
 
