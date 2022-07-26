@@ -17,8 +17,13 @@ Frame
 #####
 The frame is constructed out of 80/20 aluminum extrusion (20mm T-slot structural framing) and held together with T-nuts, joining plates and brackets. This is a cheap option which also lends itself well to adjustability.
 
-Optics
-######
+Optics Module
+#############
+The optics have been modularized to allow for more efficiency in alignment -- the projector and lenses are mounted to a modular frame section. 
+
+Lenses
+******
+
 .. image:: images/lens.jpg
     :width: 250px
     :align: center
@@ -31,7 +36,7 @@ Our system uses two `Edmund Optics lenses <https://www.edmundoptics.com/p/500mm-
                     **Cost: $46.50 x 2 = $93.00**
                     
 Lens Mounts
-###########
+***********
 
 .. image:: images/lens-mount.jpg
     :width: 250px
@@ -45,12 +50,16 @@ To attach the lenses to our frame, we selected corresponding `mounts <https://ww
 
 Rotation Stage
 ##############
-The rotation stage is a 3D-printed assembly which incorporates a gear train, linear stage, and vial holder. This is how the vial is held and rotated during the printing process, with built-in fine lateral adjustment for alignment purposes.
+The rotation stage is a 3D-printed assembly which incorporates a gear train, linear stage, and vial holder. This is how the vial is held and rotated during the printing process, with built-in fine lateral adjustment for alignment purposes. Alignment can also be adjusted by loosening the thumbscrews to slide the vertical extrusion post back and forth. We use a 2-1 gear ratio with 3D printed gears.
+
+Motor
+*****
+We used a `Pololu motor<https://www.pololu.com/product/2215>`_ for prototyping, which meets our torque requirements and can thus be integrated into our final design.
 
 Linear Stage
 *************
 
-    This 3-D printed piece makes use of a dovetail joint plus a nut, bolt, and spring to make small adjustments to vial alignment rather than sliding the entire vertical extrusion back and forth.
+    This 3-D printed piece makes use of a dovetail joint plus a nut, bolt, and spring to make small adjustments to vial alignment rather than sliding the entire vertical extrusion back and forth. This is an experimental part of our rotation stage which is under development.
     
 Vial Holder
 ************
