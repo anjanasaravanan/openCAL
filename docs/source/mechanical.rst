@@ -54,7 +54,7 @@ The rotation stage is a 3D-printed assembly which incorporates a gear train, lin
 
 Motor
 *****
-We used a `Pololu motor<https://www.pololu.com/product/2215>`_ for prototyping, which meets our torque requirements and can thus be integrated into our final design.
+We used a `Pololu motor <https://www.pololu.com/product/2215>`_ for prototyping, which meets our torque requirements and can thus be integrated into our final design.
 
 Linear Stage
 *************
